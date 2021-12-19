@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: convokit
+Version: 2.5.1
+Summary: Cornell Conversational Analysis Toolkit
+Home-page: https://github.com/CornellNLP/Cornell-Conversational-Analysis-Toolkit
+Author: Jonathan P. Chang, Caleb Chiam, Liye Fu, Andrew Wang, Justine Zhang, Cristian Danescu-Niculescu-Mizil
+Author-email: cristian@cs.cornell.edu
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Provides-Extra: craft
+License-File: LICENSE.md
+
+UNKNOWN
+

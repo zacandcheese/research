@@ -38,4 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 ### Milestone 2
-[Link](https://github.com/zacandcheese/research/blob/gh-pages/project_milestone_2.pdf)
+[Link](https://zacandcheese.github.io/research/project_milestone_2.pdf)

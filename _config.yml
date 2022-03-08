@@ -1,4 +1,10 @@
 theme: jekyll-theme-leap-day
 collections:
-authors:
-output: true
+  authors:
+    output: true
+    
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"

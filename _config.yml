@@ -1,1 +1,4 @@
 theme: jekyll-theme-leap-day
+collections:
+authors:
+output: true

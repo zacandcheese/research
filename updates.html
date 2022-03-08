@@ -28,7 +28,7 @@ title: Blog2.0
                     <header class="post-header">
                       <h2 class="post-title"><a href="/research/{{ post.url }}">{{ post.title }}</a></h2>
                       <p class="post-meta">
-                                          By <a class="post-author" href="#">Zachary Nowak</a>
+                                          {{post.date | date_to_string}}.<a class="post-author" href="#">Zachary Nowak</a>
                       </p>
                     </header>
                     <div class="post-description">

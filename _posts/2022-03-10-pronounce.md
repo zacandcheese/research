@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Basics of Aligning Test
+title: Basics of Aligning Text
 author: Zachary Nowak
 categories: Personal
 ---

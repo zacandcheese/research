@@ -5,4 +5,4 @@ author: Zachary Nowak
 categories: [Milestone, 07400]
 ---
 
-you can [get the PDF]({{ site.url }}/research/blob/gh-pages/assets/ACM_Journals_Primary_Article_Template%20(3).pdf) directly.
+you can [get the PDF]({{ site.url }}/research/assets/ACM_Journals_Primary_Article_Template%20(3).pdf) directly.
